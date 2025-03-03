@@ -65,6 +65,6 @@ public class stone_paper_scissor {
             System.out.println("It's a draw! Well played!\n");
         }
 
-        sc.close(); // Close scanner to prevent memory leak
+        sc.close();
     }
 }
